@@ -13,5 +13,5 @@
 @property (weak, nonatomic) IBOutlet UITextField *textfield;
 //- (IBAction)changeGreeting:(id)sender;
 - (IBAction)changeGreeting:(id)sender;
-@property (copy, nonatomic) NSString *userName;
+@property (copy, nonatomic) NSString *userName; hest er god
 @end
